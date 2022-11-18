@@ -1,4 +1,4 @@
-### Hi there 👋
+### 프로그래머 지망생 왈푸입니다~
 
 <!--
 **Junis532/Junis532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
