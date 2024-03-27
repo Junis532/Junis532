@@ -3,7 +3,7 @@
 ###
 
 <a href="https://www.instagram.com/wal._.foo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF73BE?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://www.instagram.com/wal._.foo/" target="_blank"><img src="https://img.shields.io/badge/Discord-8282EB?style=flat-square&logo=tistory&logoColor=white"/></a>
+<a href="https://walfoo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF895A?style=flat-square&logo=tistory&logoColor=white"/></a>
 
 ###
 
