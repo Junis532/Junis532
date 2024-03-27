@@ -2,7 +2,7 @@
 
 ###
 
-<a href="https://www.instagram.com/wal._.foo/" target="_blank"><img src="https://img.shields.io/badge/wal._.foo-FF73BE?style=for-the-badge&logo=instagram&logoColor=white" alt="wal._.foo Instagram 프로필">wal._.foo</a>
+<a href="https://www.instagram.com/wal._.foo/" target="_blank"><img src="https://img.shields.io/badge/wal._.foo-FF73BE?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 
 ###
