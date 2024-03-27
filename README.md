@@ -8,11 +8,6 @@
 
 ###
 
-<a href="https://www.instagram.com/wal._.foo/" target="_blank"><img src="https://img.shields.io/badge/wal._.foo-FF73BE?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://walfoo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF895A?style=flat-square&logo=tistory&logoColor=white"/></a>
-
-###
-
 <p align="left">😃 I'm a developer who enjoys sharing and communicating what I've learned.</p>
 
 ###
@@ -27,34 +22,41 @@
 
 ###
 
-<h2 align="center">🛠️ Tech Stack 🛠️</h2>
+<h2 align="center"><b>🛠️ Tech Stack 🛠️</b></h2>
 
-###
+<h3 align="center"><b>🌐 Languages</b></h3>
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="center">
+<img src="https://img.shields.io/badge/c-00599C?style=flat-square&logo=c&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/%20JAVA%20-FF9A00?style=flat-square&logo=&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/JavaScript-1F2724?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/> &nbsp
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/> &nbsp
+</p>
 
-###
+<h3 align="center"><b>💾 Platforms</b></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Windwos-0078D6?style=flat-square&logo=Windows&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> &nbsp
+</p>
 
-<h2 align="center">I code with</h2>
+<h3 align="center"><b>📚 Libraries and Frameworks</b></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/> &nbsp
+</p>
 
-###
+<h3 align="center"><b>⚙️ ETCs</b></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=NGINX&logoColor=white"/> &nbsp
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-</div>
-
-###
+<h3 align="center"><b>👀 Link</b></h3>
+<p align="center">
+<a herf="mailto:jeondlstjd234@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/wal._.foo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF73BE?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://walfoo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF895A?style=flat-square&logo=tistory&logoColor=white"/></a>
+<a href="https://github.com/Junis532" target="_self"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
