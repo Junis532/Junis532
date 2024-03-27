@@ -48,11 +48,6 @@
 <img src="https://img.shields.io/badge/MacOS-6e6e6e?style=flat-square&logo=MacOS&logoColor=white"/> &nbsp
 </p>
 
-<h3 align="center"><b>📚 Libraries and Frameworks</b></h3>
-<p align="center">
-<!-- <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/> &nbsp --> ###
-</p>
-
 <h3 align="center"><b>⚙️ Tools</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/VsCode-289AFF?style=flat-square&logo=VisualStudioCode&logoColor=white"/> &nbsp
