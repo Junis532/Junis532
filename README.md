@@ -11,6 +11,10 @@
 
 ###
 
+<h2 align="left">😎 Stats 😎</h2>
+
+###
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junis532&show_icons=true&theme=shades-of-purple)
 
 ###
