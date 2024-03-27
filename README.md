@@ -4,7 +4,6 @@
 
 <a href="https://www.instagram.com/wal._.foo/" target="_blank"><img src="https://img.shields.io/badge/wal._.foo-FF7DC8?style=flat-square&logo=#E4405F&logoColor=FFFFFF"/></a>
 
-
 ###
 
 <p align="left">My name is ... and I'm a ..., from ....</p>
