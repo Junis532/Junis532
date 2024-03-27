@@ -7,11 +7,7 @@
 
 ###
 
-<p align="left">Making...</p>
-
-###
-
-<h2 align="left">😎 Stats 😎</h2>
+<p align="left">😃 I'm a developer who enjoys sharing and communicating what I've learned.</p>
 
 ###
 
