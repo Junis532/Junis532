@@ -1,3 +1,9 @@
+<div align=center>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WalFoo(Junis532)&fontSize=70)
+
+</div>
+
 <h1 align="center">👋Hi there👋</h1>
 
 ###
