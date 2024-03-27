@@ -2,7 +2,8 @@
 
 ###
 
-<a href="https://walfoo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-#E4405F?style=flat&logo=tistory&logoColor=white"/></a>
+<a href="https://walfoo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-#E4405F?style=flat&logoColor=white"/></a>
+
 
 
 ###
