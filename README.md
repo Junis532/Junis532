@@ -4,13 +4,17 @@
 
 </div>
 
-<h1 align="center">👋Hi there👋</h1>
+<h2 align="center"><b>👋 Hi there 👋</b></h2>
 
-###
+- 😃 I'm a developer who enjoys sharing and communicating what I've learned.
+ 
+<br>
 
-<p align="left">😃 I'm a developer who enjoys sharing and communicating what I've learned.</p>
+<h2 align="center"><b>📌 Careers 📌</b></h2>
 
-###
+- Seoul Sungnam Hugh School Invention And Robot School Club (2022.03 ~ Current)
+
+<br>
 
 <h2 align="center">😎 Stats 😎</h2>
 
