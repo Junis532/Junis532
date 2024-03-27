@@ -27,7 +27,9 @@
 <h3 align="center"><b>🌐 Languages</b></h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/c-00599C?style=flat-square&logo=c&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/C%23-1F2724?style=flat-square&logo=C%23&logoColor=F7DF1E"/> &nbsp
+<img src="https://img.shields.io/badge/C++-1F2724?style=flat-square&logo=c%2B%2B&logoColor=F7DF1E"/> &nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/%20JAVA%20-FF9A00?style=flat-square&logo=&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp
