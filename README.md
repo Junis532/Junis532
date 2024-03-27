@@ -11,6 +11,10 @@
 
 ###
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junis532&show_icons=true&theme=shades-of-purple)
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
@@ -40,9 +44,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
-
-###
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junis532&show_icons=true&theme=shades-of-purple)
 
 ###
