@@ -2,7 +2,7 @@
 
 ###
 
-<a href="https://www.instagram.com/wal._.foo/" target="_blank"><img src="https://img.shields.io/badge/wal._.foo-FF7DC8?style=flat-square&logo=#E4405F&logoColor=FF7DC8"/></a>
+<a href="https://www.instagram.com/wal._.foo/" target="_blank"><img src="https://img.shields.io/badge/wal._.foo-FF7DC8?style=flat-square&logo=E4405F&logoColor=FF7DC8"/></a>
 
 
 ###
