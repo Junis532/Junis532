@@ -14,9 +14,10 @@
 <h2 align="center">😎 Stats 😎</h2>
 
 ###
-<center>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Junis532&show_icons=true&theme=shades-of-purple" alt="Anurag's GitHub stats">
-</center>
+</div>
 
 ###
 
