@@ -2,7 +2,7 @@
 
 ###
 
-<a href="https://walfoo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-#E4405F?style=flat&logoColor=white"/></a>
+<a href="https://www.instagram.com/wal._.foo/" target="_blank"><img src="https://img.shields.io/badge/FF7DC8?style=flat-square&logo=#4405F&logoColor=FF7DC8"/></a>
 
 
 
