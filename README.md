@@ -45,10 +45,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Windwos-0078D6?style=flat-square&logo=Windows&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> &nbsp
- <img src="https://img.shields.io/badge/VsCode-289AFF?style=flat-square&logo=VisualStudioCode&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Unity-aaaaaa?style=flat-square&logo=Unity&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/UnRealEngine-000000?style=flat-square&logo=UnRealEngine&logoColor=white"/> &nbsp
 </p>
 
 <h3 align="center"><b>📚 Libraries and Frameworks</b></h3>
@@ -56,10 +52,12 @@
 <!-- <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/> &nbsp --> ###
 </p>
 
-<h3 align="center"><b>⚙️ ETCs</b></h3>
+<h3 align="center"><b>⚙️ Tools</b></h3>
 <p align="center">
-<!-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=NGINX&logoColor=white"/> &nbsp --> ###
+<img src="https://img.shields.io/badge/VsCode-289AFF?style=flat-square&logo=VisualStudioCode&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Unity-aaaaaa?style=flat-square&logo=Unity&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/UnRealEngine-000000?style=flat-square&logo=UnRealEngine&logoColor=white"/> &nbsp
 </p>
 
 <h3 align="center"><b>👀 Link</b></h3>
