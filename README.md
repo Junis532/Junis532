@@ -2,6 +2,11 @@
 
 ###
 
+<a href="https://walfoo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-#E4405F?style=flat&logo=tistory&logoColor=white"/></a>
+
+
+###
+
 <p align="left">My name is ... and I'm a ..., from ....</p>
 
 ###
