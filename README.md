@@ -50,7 +50,7 @@
 
 <h3 align="center"><b>⚙️ Tools</b></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/VsCode-289AFF?style=flat-square&logo=VisualStudioCode&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Vscode-289AFF?style=flat-square&logo=VisualStudioCode&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/> &nbsp
 <img src="https://img.shields.io/badge/UnRealEngine-000000?style=flat-square&logo=UnRealEngine&logoColor=white"/> &nbsp
