@@ -58,7 +58,7 @@
 
 <h3 align="center"><b>👀 Link</b></h3>
 <p align="center">
-<a herf="mailto:jeondlstjd234@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
+<a herf="wjsdlstjd2345@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
 <a href="https://www.instagram.com/inseong0122/" target="_blank"><img src="https://img.shields.io/badge/Instagram-bc3cbc?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
 <a href="https://walfoo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF895A?style=flat-square&logo=tistory&logoColor=white"/></a> &nbsp
 <a href="https://github.com/Junis532" target="_self"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> &nbsp
