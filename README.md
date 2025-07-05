@@ -45,6 +45,7 @@
 <h3 align="center"><b>💾 Platforms</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Windwos-0078D6?style=flat-square&logo=Windows&logoColor=white"/> &nbsp
+ <img src="https://img.shields.io/badge/Windwos-0078D6?style=flat-square&logo=Android&logoColor=white"/> &nbsp
 <!-- <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/MacOS-6e6e6e?style=flat-square&logo=MacOS&logoColor=white"/> &nbsp -->
 </p>
