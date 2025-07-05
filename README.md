@@ -12,7 +12,8 @@
 
 <h2 align="center"><b>📌 Careers 📌</b></h2>
 
-- Seoul Sungnam Hugh School Invention And Robot School Club (2022.03 ~ Current)
+- Seoul Sungnam Hugh School Invention And Robot School Club (2022.03 ~ 2025.01)
+- Korea IT Vocational College ( 2025.03 ~ current)
 
 <br>
 
