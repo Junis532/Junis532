@@ -33,9 +33,9 @@
 
 <h2 align="center"><b>🛠️ Tech Stack 🛠️</b></h2>
 
-<h3 align="center"><b>🌐 Languages</b></h3>
+<!-- <h3 align="center"><b>🌐 Languages</b></h3>
 
-<!-- <p align="center">
+<p align="center">
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/C%23-1F2724?style=flat-square&logo=C%23&logoColor=F7DF1E"/> &nbsp
 <img src="https://img.shields.io/badge/C++-1F2724?style=flat-square&logo=c%2B%2B&logoColor=F7DF1E"/> &nbsp
