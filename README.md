@@ -33,7 +33,7 @@
 
 <h2 align="center"><b>🛠️ Tech Stack 🛠️</b></h2>
 
-<h3 align="center"><b>🌐 Languages</b></h3>
+[<h3 align="center"><b>🌐 Languages</b></h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/> &nbsp 
@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-1F2724?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/> &nbsp
 </p>
-
+](url)
 <h3 align="center"><b>💾 Platforms</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Windwos-0078D6?style=flat-square&logo=Windows&logoColor=white"/> &nbsp
