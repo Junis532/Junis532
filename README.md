@@ -33,9 +33,9 @@
 
 <h2 align="center"><b>🛠️ Tech Stack 🛠️</b></h2>
 
-[<h3 align="center"><b>🌐 Languages</b></h3>
+<h3 align="center"><b>🌐 Languages</b></h3>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/C%23-1F2724?style=flat-square&logo=C%23&logoColor=F7DF1E"/> &nbsp
 <img src="https://img.shields.io/badge/C++-1F2724?style=flat-square&logo=c%2B%2B&logoColor=F7DF1E"/> &nbsp
@@ -44,8 +44,8 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-1F2724?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/> &nbsp
-</p>
-](url)
+</p> -->
+
 <h3 align="center"><b>💾 Platforms</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Windwos-0078D6?style=flat-square&logo=Windows&logoColor=white"/> &nbsp
