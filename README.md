@@ -13,6 +13,7 @@
 <h2 align="center"><b>📌 Careers 📌</b></h2>
 
 - Seoul Sungnam Hugh School Invention And Robot School Club (2022.03 ~ 2025.01)
+- A motion recognition game created using Python and installed at the Bundang Yatap Youth Training Center. (2023.12)
 - Korea IT Vocational College Game Programming Major ( 2025.03 ~ current)
 
 <br>
