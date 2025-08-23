@@ -25,6 +25,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Junis532&show_icons=true&theme=shades-of-purple" alt="Anurag's GitHub stats">
 </div>
 
+### 📊 사용 언어
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=radical)
+
 ###
 
 <h2 align="center"><b>🛠️ Tech Stack 🛠️</b></h2>
