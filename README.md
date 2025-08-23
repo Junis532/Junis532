@@ -26,7 +26,7 @@
 </div>
 
 ### 📊 사용 언어
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junis532&layout=compact&theme=radical)
 
 ###
 
